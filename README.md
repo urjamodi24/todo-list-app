@@ -80,6 +80,6 @@ npx expo start  # Start the Expo development server
 
 ## 📌 Author
 👤 **Your Name**  
-📧 your.email@example.com  
-🔗 [GitHub Profile](https://github.com/yourgithubusername)  
+📧 urja7112@gmail.com 
+🔗 [GitHub Profile](https://github.com/urjamodi24)  
 
